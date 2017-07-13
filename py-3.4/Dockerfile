@@ -1,4 +1,4 @@
-FROM pgappbuilder:latest
+FROM praekeltfoundation/pgappbuilder:latest
 
 COPY requirements.txt /root/
 COPY packages.txt /root/
