@@ -1,0 +1,7 @@
+wget
+curl
+git
+ssh
+tar
+gzip
+ca-certificates
